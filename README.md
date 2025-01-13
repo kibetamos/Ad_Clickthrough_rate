@@ -33,7 +33,7 @@ This project addresses these challenges by building a machine learning model to 
 ### EDA
 
 EDA/age.jpg
-![Image Description](/home/bench/Documents/projects/Ad_Clickthrough_rate/EDA/age.jpg)
+![Image Description](EDA/age.jpg)
 
 ### Instructions to Run the Project
 
