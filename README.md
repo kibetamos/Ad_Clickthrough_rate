@@ -25,7 +25,6 @@ Scalability:
 
 1.Creating a solution that can scale effectively to handle large datasets and serve predictions through an API.
 
-
 This project addresses these challenges by building a machine learning model to predict click-through rates and deploying it as an easily accessible REST API, enabling practical integration into marketing workflows.
 
 
@@ -73,4 +72,6 @@ Create and activate virtual environments:
 Install dependencies:
 
     pip install -r requirements.txt
+
+
 
