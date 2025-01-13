@@ -31,19 +31,19 @@ This project addresses these challenges by building a machine learning model to 
 
 ### EDA
 
-![This is an image that shows ](EDA/age.jpg)
+![This is an image that shows ](EDA/age.jpg)</br>
 Distribution of Age
 
-![This is an image that shows ](EDA/area_income.jpg)
+![This is an image that shows ](EDA/area_income.jpg)</br>
 Distributio of Area income
 
-![This is an image that shows ](EDA/confusion_matrix.jpg)
+![This is an image that shows ](EDA/confusion_matrix.jpg)</br>
 Confusion Matrix
 
-![This is an image that shows ](EDA/daily_time_spent_on_site_by_ad_click.jpg)
+![This is an image that shows ](EDA/daily_time_spent_on_site_by_ad_click.jpg)</br>
 Daily time spent on site by Ad Click
 
-![This is an image that shows ](EDA/daily_time_spent_on_site.jpg)
+![This is an image that shows ](EDA/daily_time_spent_on_site.jpg)</br>
 Daily time spent on site
 
 ![This is an image that shows ](EDA/we.jpg)
