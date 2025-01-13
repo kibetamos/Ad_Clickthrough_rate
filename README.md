@@ -29,13 +29,25 @@ Scalability:
 This project addresses these challenges by building a machine learning model to predict click-through rates and deploying it as an easily accessible REST API, enabling practical integration into marketing workflows.
 
 
-
 ### EDA
 
 ![This is an image that shows ](EDA/age.jpg)
+Distribution of Age
 
+![This is an image that shows ](EDA/area_income.jpg)
+Distributio of Area income
 
-fwfd
+![This is an image that shows ](EDA/confusion_matrix.jpg)
+Confusion Matrix
+
+![This is an image that shows ](EDA/daily_time_spent_on_site_by_ad_click.jpg)
+Daily time spent on site by Ad Click
+
+![This is an image that shows ](EDA/daily_time_spent_on_site.jpg)
+Daily time spent on site
+
+![This is an image that shows ](EDA/we.jpg)
+    Daily time spent on site by Ad Click
 
 ### Instructions to Run the Project
 
