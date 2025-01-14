@@ -82,7 +82,7 @@ This application is fully containerized and can be deployed on any virtual machi
 The necessary files for deployment are included in this repository.
 
 ## **Docker Files**
-- **[Dockerfile](./Dockerfile)**: Defines the environment and dependencies required to build the application.
+- **[Dockerfile](./Prediction/Dockerfile)**: Defines the environment and dependencies required to build the application.
 - **[docker-compose.yaml](./docker-compose.yaml)**: Facilitates multi-container Docker applications, making it easy to configure and run the application.
 
 
