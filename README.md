@@ -83,7 +83,7 @@ The necessary files for deployment are included in this repository.
 
 ## **Docker Files**
 - **[Dockerfile](./Prediction/Dockerfile)**: Defines the environment and dependencies required to build the application.
-- **[docker-compose.yaml](./docker-compose.yaml)**: Facilitates multi-container Docker applications, making it easy to configure and run the application.
+- **[docker-compose.yaml](./Prediction/docker-compose.yaml)**: Facilitates multi-container Docker applications, making it easy to configure and run the application.
 
 
 If you want to develop the project, pay attention to settings.py, it contains key parameters.
