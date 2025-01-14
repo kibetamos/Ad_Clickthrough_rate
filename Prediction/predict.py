@@ -34,7 +34,7 @@ def make_prediction(model, input_data):
 
 if __name__ == "__main__":
     # Path to the model file
-    model_path = "xgboost_model.pkl"
+    model_path = "Prediction/model/best_model.pkl"
 
     # Example input data (replace with your actual feature values)
     input_data = [5.1, 3.5, 1.4, 0.2]  # Example for Iris dataset; adjust accordingly
