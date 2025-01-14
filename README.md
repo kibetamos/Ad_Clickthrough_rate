@@ -81,7 +81,7 @@ As application is fully containerized, it can be deployed on any virtual machine
 
     docker-compose.yaml
     Dockerfile
-    app.py - Flask web app which loads best model and processes received data to predict churn. By default it serves on port 5555. You can change it in settings.py and Dockerfile.
+app.py - Flask web app which loads best model and processes received data to predict churn. By default it serves on port 5555. You can change it in settings.py and Dockerfile.
 
 If you want to develop the project, pay attention to settings.py, it contains key parameters.
 
