@@ -77,11 +77,14 @@ Install dependencies:
 
 ### Docker
 We have a Docker file provided and we can have it up by running:
-As application is fully containerized, it can be deployed on any virtual machine (AWS, Azure, GCP).
 
-    docker-compose.yaml
-    Dockerfile
-app.py - Flask web app which loads best model and processes received data to predict churn. By default it serves on port 5555. You can change it in settings.py and Dockerfile.
+This application is fully containerized and can be deployed on any virtual machine, including AWS, Azure, and GCP. 
+The necessary files for deployment are included in this repository.
+
+## **Docker Files**
+- **[Dockerfile](./Dockerfile)**: Defines the environment and dependencies required to build the application.
+- **[docker-compose.yaml](./docker-compose.yaml)**: Facilitates multi-container Docker applications, making it easy to configure and run the application.
+
 
 If you want to develop the project, pay attention to settings.py, it contains key parameters.
 
